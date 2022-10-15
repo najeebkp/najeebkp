@@ -35,6 +35,11 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &emsp;
  
 </p>
+
+<h3>Badges Earned</h3>
+
+[![@najeebkp's Holopin board](https://holopin.me/najeebkp)](https://holopin.io/@najeebkp)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/najeeb-thangal-kp-4174b2144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="najeeb-thangal-kp-4174b2144" height="30" width="40" /></a>
